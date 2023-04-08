@@ -1,0 +1,48 @@
+[0.763s] Invoking command in '/home/csrobotique/lancer final/groupe1_pkg': PYTHONPATH=/home/csrobotique/lancer final/install/groupe1_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/groupe1_pkg build --build-base /home/csrobotique/lancer final/build/groupe1_pkg/build install --prefix /home/csrobotique/lancer final/install/groupe1_pkg --record /home/csrobotique/lancer final/build/groupe1_pkg/install.log --single-version-externally-managed
+[1.037s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.037s]   warnings.warn(
+[1.037s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'install-scripts' will not be supported in future versions. Please use the underscore name 'install_scripts' instead
+[1.038s]   warnings.warn(
+[1.050s] running egg_info
+[1.051s] writing ../build/groupe1_pkg/groupe1_pkg.egg-info/PKG-INFO
+[1.052s] writing dependency_links to ../build/groupe1_pkg/groupe1_pkg.egg-info/dependency_links.txt
+[1.053s] writing entry points to ../build/groupe1_pkg/groupe1_pkg.egg-info/entry_points.txt
+[1.053s] writing requirements to ../build/groupe1_pkg/groupe1_pkg.egg-info/requires.txt
+[1.053s] writing top-level names to ../build/groupe1_pkg/groupe1_pkg.egg-info/top_level.txt
+[1.057s] reading manifest file '../build/groupe1_pkg/groupe1_pkg.egg-info/SOURCES.txt'
+[1.060s] writing manifest file '../build/groupe1_pkg/groupe1_pkg.egg-info/SOURCES.txt'
+[1.060s] running build
+[1.060s] running build_py
+[1.063s] running install
+[1.063s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.063s]   warnings.warn(
+[1.064s] running install_lib
+[1.067s] running install_data
+[1.068s] running install_egg_info
+[1.069s] removing '/home/csrobotique/lancer final/install/groupe1_pkg/lib/python3.10/site-packages/groupe1_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.070s] Copying ../build/groupe1_pkg/groupe1_pkg.egg-info to /home/csrobotique/lancer final/install/groupe1_pkg/lib/python3.10/site-packages/groupe1_pkg-0.0.0-py3.10.egg-info
+[1.071s] running install_scripts
+[1.093s] Installing camera script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.093s] Installing control_angle script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.093s] Installing control_robot script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.094s] Installing controleur script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.094s] Installing controleur1 script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.094s] Installing controleur2 script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.094s] Installing controlleur script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.094s] Installing demo_cam script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.094s] Installing demo_control script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.095s] Installing enregistrement script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.095s] Installing essai1 script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.095s] Installing essai2 script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.095s] Installing lancement = groupe1_pkg.lancement:maingobelet script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.095s] Installing sauvegarde script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.096s] Installing structure script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.096s] Installing structure_delai script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.096s] Installing test_orientation script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.096s] Installing test_pince script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.096s] Installing trajectoire script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.097s] Installing trajectoire2 script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.097s] Installing vision script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.097s] Installing vision_cal script to /home/csrobotique/lancer final/install/groupe1_pkg/lib/groupe1_pkg
+[1.097s] writing list of installed files to '/home/csrobotique/lancer final/build/groupe1_pkg/install.log'
+[1.122s] Invoked command in '/home/csrobotique/lancer final/groupe1_pkg' returned '0': PYTHONPATH=/home/csrobotique/lancer final/install/groupe1_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/groupe1_pkg build --build-base /home/csrobotique/lancer final/build/groupe1_pkg/build install --prefix /home/csrobotique/lancer final/install/groupe1_pkg --record /home/csrobotique/lancer final/build/groupe1_pkg/install.log --single-version-externally-managed

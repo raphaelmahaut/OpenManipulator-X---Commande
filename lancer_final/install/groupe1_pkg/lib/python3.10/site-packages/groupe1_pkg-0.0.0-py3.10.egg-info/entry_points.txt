@@ -1,0 +1,26 @@
+[console_scripts]
+camera = groupe1_pkg.camera:main
+control_angle = groupe1_pkg.control_angle:main
+control_robot = groupe1_pkg.control_robot:main
+controleur = groupe1_pkg.controleur:main
+controleur1 = groupe1_pkg.controleur1:main
+controleur2 = groupe1_pkg.controleur2:main
+controlleur = groupe1_pkg.controlleur:main
+demo_cam = groupe1_pkg.camera_demo:main
+demo_control = groupe1_pkg.control_robot_demo:main
+enregistrement = groupe1_pkg.enregistrement:main
+essai1 = groupe1_pkg.essai1:main
+essai2 = groupe1_pkg.essai2:main
+gobelet = groupe1_pkg.zed2_custom_code:main
+lancement = groupe1_pkg.lancement:main
+manuel = groupe1_pkg.manuel:main
+sauvegarde = groupe1_pkg.sauvegarde:main
+structure = groupe1_pkg.structure:main
+structure_delai = groupe1_pkg.structure2:main
+test_orientation = groupe1_pkg.test_orientation:main
+test_pince = groupe1_pkg.test_pince:main
+trajectoire = groupe1_pkg.trajectoire:main
+trajectoire2 = groupe1_pkg.trajectoire2:main
+vision = groupe1_pkg.vision:main
+vision_cal = groupe1_pkg.vision_cal:main
+

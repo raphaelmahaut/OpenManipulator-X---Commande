@@ -1,0 +1,49 @@
+/usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+  warnings.warn(
+running egg_info
+writing ../build/groupe1_pkg/groupe1_pkg.egg-info/PKG-INFO
+writing dependency_links to ../build/groupe1_pkg/groupe1_pkg.egg-info/dependency_links.txt
+writing entry points to ../build/groupe1_pkg/groupe1_pkg.egg-info/entry_points.txt
+writing requirements to ../build/groupe1_pkg/groupe1_pkg.egg-info/requires.txt
+writing top-level names to ../build/groupe1_pkg/groupe1_pkg.egg-info/top_level.txt
+reading manifest file '../build/groupe1_pkg/groupe1_pkg.egg-info/SOURCES.txt'
+writing manifest file '../build/groupe1_pkg/groupe1_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying groupe1_pkg/manuel.py -> /home/csrobotique/lancer_final/build/groupe1_pkg/build/lib/groupe1_pkg
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+copying /home/csrobotique/lancer_final/build/groupe1_pkg/build/lib/groupe1_pkg/manuel.py -> /home/csrobotique/lancer_final/install/groupe1_pkg/lib/python3.10/site-packages/groupe1_pkg
+byte-compiling /home/csrobotique/lancer_final/install/groupe1_pkg/lib/python3.10/site-packages/groupe1_pkg/manuel.py to manuel.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/csrobotique/lancer_final/install/groupe1_pkg/lib/python3.10/site-packages/groupe1_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/groupe1_pkg/groupe1_pkg.egg-info to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/python3.10/site-packages/groupe1_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing camera script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing control_angle script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing control_robot script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing controleur script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing controleur1 script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing controleur2 script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing controlleur script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing demo_cam script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing demo_control script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing enregistrement script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing essai1 script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing essai2 script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing gobelet script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing lancement script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing manuel script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing sauvegarde script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing structure script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing structure_delai script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing test_orientation script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing test_pince script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing trajectoire script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing trajectoire2 script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing vision script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+Installing vision_cal script to /home/csrobotique/lancer_final/install/groupe1_pkg/lib/groupe1_pkg
+writing list of installed files to '/home/csrobotique/lancer_final/build/groupe1_pkg/install.log'
