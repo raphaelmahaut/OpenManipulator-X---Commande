@@ -5,7 +5,9 @@ Le dossier rapport-1A correspond au rapport du projet consistant à effectuer au
 Il contient une vidéo de présentation, un rapport écris et les codes ayant été développé au cours de ce projet.
 
 
-Les trois autres dossiers corrspondent à la suite du projet consistant à lacer automatiquement une balle de ping-pong dans un verre à l'aide du bras.
+Les trois autres dossiers correspondent à la suite du projet consistant à lacer automatiquement une balle de ping-pong dans un verre à l'aide du bras. Le rapport de ce projet et une vidéo (action du robot sur les 10 dernières secondes) présentant le projet sont disponible dans ce répertoire. 
+
+
 Le dossier "lancer_final" contient un package ROS2 écrit à l'aide de python permettant la communication avec la caméra et la commande du bras robotique.
 Le dossier "robotis_workspace" contient la définition en C++ du noeud controller utilisé pour commander le mouvement du bras.
 Le dossier "siulations" contient les autres fichiers utilisés pour simuler au cours de ce projet.
